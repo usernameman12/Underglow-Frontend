@@ -1,0 +1,16 @@
+{
+    "name": "UNDERGLOW",
+    "version": "1.0.0",
+    "description": "fsdfsdfsdfsdf",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js",
+      "dev": "node server.js",
+      "build": "node build.js",
+      "deploy": "vercel --prod"
+    },
+    "author": "",
+    "license": "AGPL-3.0-only",
+    "dependencies": {}
+  }
+  
